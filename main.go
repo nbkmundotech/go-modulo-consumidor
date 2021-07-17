@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	analisador "github.com/nbkmundotech/go-modulo-biblioteca"
+	"github.com/nbkmundotech/go-modulo-biblioteca/analisador"
 )
 
 func main() {
